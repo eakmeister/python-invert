@@ -10,7 +10,7 @@ add_inverts(mystring)
 print(ɯʎsʇɹᴉuƃ)
 # Prints 'Hǝllo Moɹlp¡'
 ```
-I think this is an entirely reasonable answer. What's more, we can extend this simple concept to arrays and matricies, and we cansupport backwards text along with upside-down text. This allows us to perform matrix transformations with ease:
+I think this is an entirely reasonable answer. What's more, we can extend this simple concept to arrays and matricies, and we can support backwards text along with upside-down text. This allows us to perform matrix transformations with ease:
 ```
 matrix = numpy.array([1, 2, 3], [4, 5, 6], [7, 8, 9])
 add_inverts(matrix)
