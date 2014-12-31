@@ -35,4 +35,4 @@ print(xirtam)
 # [ 6 5 4 ]
 # [ 9 8 7 ]
 ```
-```
+I wish I could make the namespace pollution happen automatically when a variable is created, but unfortunatly I can't find a way to do that without modifying python itself, so the add_inverts call is necessary. If you have a way, let me know.
